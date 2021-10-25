@@ -1,5 +1,4 @@
-<h1 align="center">Moin Moin 👋, ich bin der Mina(ja ist es auch ein männlicher Name =D)</h1>
-<h3 align="center">bin trotz der Uni ein autodidaktischer Programmierer</h3>
+<h1 align="center">make it work , make it right , then make it fast </h1>
 
 - 🌱 I’m currently learning **Spring , TypeScript**
 
